@@ -1,8 +1,0 @@
-print ("Welcome to Area Cost Calculator")
-length=flout(input("Please type the length"))
-width =float(input("Please type the width"))
-area =length*width
-print(f"The total area is {area}")
-cost_for_one_meter=float(input("How much dollars for one metre? ))
-cost = area*cost_for_one_meter
-print(f"Give the guy {cost}$")
