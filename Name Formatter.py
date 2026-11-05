@@ -4,7 +4,7 @@ for n in name:
     separated_name = n.split()
     print(separated _name)
     abbreviation=separated _name[0][0]  + "." + separated name[1][0] + "."
-    abbreviated_names+=abbreviation 
+    abbreviated_names+=(abbreviation )
 print ("Abbreviated names are :")
 for x in abbreviated_names:
     print(x)
